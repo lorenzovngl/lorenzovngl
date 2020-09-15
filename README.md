@@ -1,8 +1,8 @@
-### *Hi, Welcome to my GitHub profile!*
+### *Hi, welcome to my GitHub profile!*
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lorenzovngl) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Florenzovngl&count_bg=%23C37000&title_bg=%23555555&title=daily%2Ftotal+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Lorenzo Vainigli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzovngl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzovngl&layout=compact)
 
 <!--
 **lorenzovngl/lorenzovngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
