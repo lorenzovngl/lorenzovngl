@@ -1,6 +1,6 @@
 ### *Hi, welcome to my GitHub profile!*
 
-![Twitter Follow](https://img.shields.io/twitter/follow/lorenzovngl) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Florenzovngl&count_bg=%23C37000&title_bg=%23555555&title=daily%2Ftotal+views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/lorenzovngl_dev) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Florenzovngl&count_bg=%23C37000&title_bg=%23555555&title=daily%2Ftotal+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzovngl&layout=compact)
 
