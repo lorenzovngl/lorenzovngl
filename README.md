@@ -10,6 +10,7 @@
 <ul>
   <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
   <li><a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Facebook Hacker Cup problems</a></li>
+  <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
   <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
 </ul>
 <h5 align="left">University projects</h5>
