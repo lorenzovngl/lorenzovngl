@@ -36,5 +36,10 @@
 </p>
 
 <h3 align="center">📊 My statistics</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzovngl&show_icons=true&locale=en&layout=compact" alt="lorenzovngl" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true&locale=en" alt="lorenzovngl" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&" alt="lorenzovngl" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true&theme=dark" alt="lorenzovngl" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&theme=dark" alt="lorenzovngl" />
+</div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzovngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="lorenzovngl" />
+</div>
