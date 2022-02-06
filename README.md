@@ -34,9 +34,10 @@
   <li><a href="https://gist.github.com/lorenzovngl/0789679fd79aaf8e212db74e826bcad6" target="blank">Git commands</a></li>
 </ul>
 
-<h3 align="center">🤝 Contributions</h3>
+<h3 align="center">🤝 My contributions</h3>
 <ul>
   <li><a href="https://github.com/chryz-code/whatsapp-clone" target="blank">chryz-code/whatsapp-clone</a></li>
+  <li><a href="https://github.com/abdulmuizz0903/abdulmuizz0903.github.io" target="blank">abdulmuizz0903/abdulmuizz0903.github.io</a></li>
 </ul>
 
 <h3 align="center">🔗 Connect with me</h3>
