@@ -9,7 +9,7 @@
 <h5 align="left">Personal projects</h5>
 <ul>
   <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
-  <li><a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Facebook Hacker Cup problems</a></li>
+  <li><a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Facebook Hacker Cup problems</a> ⭐1️⃣</li>
   <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
   <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
   <li><a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a> ⭐1️⃣</li>
@@ -32,6 +32,7 @@
 <h3 align="center">📝 My gists</h3>
 <ul>
   <li><a href="https://gist.github.com/lorenzovngl/0789679fd79aaf8e212db74e826bcad6" target="blank">Git commands</a></li>
+  <li><a href="https://gist.github.com/lorenzovngl/de32dbc98b904c7192ecd7764edb1156" target="blank">Resolve hostname in Java</a></li>
 </ul>
 
 <h3 align="center">🤝 My contributions</h3>
