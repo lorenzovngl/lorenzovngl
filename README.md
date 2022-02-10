@@ -9,10 +9,13 @@
 <h5 align="left">Personal projects</h5>
 <ul>
   <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
-  <li><a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Facebook Hacker Cup problems</a> ⭐1️⃣</li>
+  <li>
+    <a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Facebook Hacker Cup problems</a> 
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/facebook-hacker-cup?label=%E2%AD%90">
+  </li>
   <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
   <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
-  <li><a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a> ⭐1️⃣</li>
+  <li><a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a></li>
 </ul>
 <h5 align="left">University projects</h5>
 <ul>
@@ -22,7 +25,10 @@
   <li><a href="https://github.com/lorenzovngl/MiniErlangBlockchain">A mini-blockchain implementation in Erlang</a></li>
   <li><a href="https://github.com/lorenzovngl/progetto-grafica">Open Sailing - A Ship Game in OpenGL</a></li>
   <li><a href="https://github.com/lorenzovngl/budget-tracker">[🎓 Bachelor's degree thesis project] Denario, an app for budget tracking</a></li>
-  <li><a href="https://github.com/lorenzovngl/agent-based-football">Agent based football simulation in NetLogo</a> ⭐1️⃣</li>
+  <li>
+    <a href="https://github.com/lorenzovngl/agent-based-football">Agent based football simulation in NetLogo</a>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/agent-based-football?label=%E2%AD%90">
+  </li>
   <li><a href="https://github.com/lorenzovngl/Scala_TSP">Implementation of the Traveling salesman problem in Scala-Spark</a></li>
   <li><a href="https://github.com/lorenzovngl/word-sense-disambiguation">Word Sense Disambiguation in Python</a></li>
   <li><a href="https://github.com/lorenzovngl/FOOL18">Java-based compiler for a custom programming language</a></li>
