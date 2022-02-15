@@ -55,9 +55,9 @@
 
 <h3 align="center">📊 My statistics</h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true&theme=dark" alt="lorenzovngl" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&theme=dark" alt="lorenzovngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&theme=tokyonight&background=0d1117&hide_border=true" alt="lorenzovngl" />
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzovngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="lorenzovngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzovngl&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
 </div>
