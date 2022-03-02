@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lorenzo 👨🏻‍💻</h1>
-<h3 align="center">A software developer with master's degree in computer science</h3>
+<h3 align="center">A Software Developer with Master's degree in Computer Science</h3>
 <p>I'm interested in Artificial Intelligence 🤖, Machine Learning 🧠 and Web 🌐.</p>
 <p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
 
-<p align="center"> <a href="https://twitter.com/lorenzovngl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lorenzovngl_dev?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/lorenzovngl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lorenzovngl_dev?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" /></a>
+</p>
 
 <h3 align="center">💼 My repositories</h3>
 <h5 align="left">Personal projects</h5>
@@ -42,11 +44,7 @@
   <li><a href="https://gist.github.com/lorenzovngl/de32dbc98b904c7192ecd7764edb1156" target="blank">Resolve hostname in Java</a></li>
 </ul>
 
-<h3 align="center">🤝 My contributions</h3>
-<ul>
-  <li><a href="https://github.com/chryz-code/whatsapp-clone" target="blank">chryz-code/whatsapp-clone</a></li>
-  <li><a href="https://github.com/abdulmuizz0903/abdulmuizz0903.github.io" target="blank">abdulmuizz0903/abdulmuizz0903.github.io</a></li>
-</ul>
+<!--<h3 align="center">🤝 My contributions</h3>-->
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
@@ -62,3 +60,8 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzovngl&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
 </div>
+
+<br/>
+<p align="center">
+  <i>If you like one of my projects, please consider leaving a star to support me. Thank you.</i>
+</p>
