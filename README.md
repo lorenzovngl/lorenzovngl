@@ -4,7 +4,12 @@
 <p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
 
 <p align="center"> 
-  <a href="https://twitter.com/lorenzovngl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lorenzovngl_dev?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" /></a>
+  <a href="https://twitter.com/lorenzovngl_dev" target="blank">
+    <img src="https://shields.io/badge/follow-me-blue?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" />
+  </a>
+  <a href="https://twitter.com/messages/compose?recipient_id=1458499897926328327" target="blank">
+    <img src="https://shields.io/badge/message-me-blue?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" />
+  </a>
 </p>
 
 <h3 align="center">💼 My repositories</h3>
