@@ -24,7 +24,10 @@
   </li>
   <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
   <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
-  <li><a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a></li>
+  <li>
+    <a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/domina?label=%E2%AD%90">
+  </li>
 </ul>
 <h5 align="left">University projects</h5>
 <ul>
