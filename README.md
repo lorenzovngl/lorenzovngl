@@ -19,8 +19,8 @@
   <li><a href="https://github.com/lorenzovngl/bootstrap-advanced-pagination">Advanced pagination with Bootstrap</a></li>
   <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
   <li>
-    <a href="https://github.com/lorenzovngl/facebook-hacker-cup">My solutions for the Meta Hacker Cup problems</a> 
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/facebook-hacker-cup?label=%E2%AD%90">
+    <a href="https://github.com/lorenzovngl/meta-hacker-cup">My solutions for the Meta Hacker Cup problems</a> 
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/meta-hacker-cup?label=%E2%AD%90">
   </li>
   <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
   <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
