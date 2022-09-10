@@ -28,6 +28,9 @@
     <a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/domina?label=%E2%AD%90">
   </li>
+  <li>
+    <a href="https://github.com/lorenzovngl/n-grams">Implementation of the "n-gram" concept of computational linguistics</a>
+  </li>
 </ul>
 <h5 align="left">University projects</h5>
 <ul>
