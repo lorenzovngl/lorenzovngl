@@ -16,6 +16,7 @@
 <h5 align="left">Personal projects</h5>
 <ul>
   <li><a href="https://github.com/niceplaces"><strong><i>My big project: <img src="https://github.com/niceplaces/website/blob/main/assets/favicons/favicon-16x16.png"/> Nice Places ❤️</i></strong></a></li>
+  <li><a href="https://github.com/lorenzovngl/plantuml-generator">Automatic generator of UML diagrams using PlantUML</a></li>
   <li><a href="https://github.com/lorenzovngl/bootstrap-advanced-pagination">Advanced pagination with Bootstrap</a></li>
   <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
   <li>
