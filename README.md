@@ -56,7 +56,7 @@
   <li>19/10/2022 - <a href="https://pandas.pydata.org/docs/whatsnew/v1.5.1.html#:~:text=Himanshu%20Wagh%20%2B-,Lorenzo%20Vainigli">Contributed to version 1.5.1 of Pandas</a></li>
   <li>01/09/2022 - <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/710922656375679">Qualified for Meta Hacker Cup 2022 Round 1</a></li>
   <li>01/09/2021 - <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/710922656375679">Qualified for Facebook Hacker Cup 2021 Round 1</a></li>
-  <li><a href="https://gist.github.com/lorenzovngl/9ec54054e96608b26600628f02dc53d3">... (full list)</a></li>
+  <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
 </ul>
 
 <!--<h3 align="center">🤝 My contributions</h3>-->
