@@ -14,5 +14,9 @@
 - 01/09 - 🏁 [Qualified for Facebook Hacker Cup 2020 Round 1](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/710922656375679)
 - 03/03 - 📣 [Cited in an article for building an English version of COVID-19 in Italy map](https://www.italofile.com/coronavirus-in-italy/#twitter-widget-3:~:text=Lorenzo%20Vainigli)
 
+## 2019
+- 08/10 - 🎉 [Launched a website developed entirely by me](https://www.prolocosovicille.it/)
+- 16/07 - 🎉 [Launched a my personal website](https://www.lorenzovainigli.com/)
+
 ## 2017
 - 15/03 - 🎓 [Got a bachelor's degree in Computer Science](https://amslaurea.unibo.it/13262/)
