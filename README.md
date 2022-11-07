@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lorenzo 👨🏻‍💻</h1>
-<h3 align="center">A Software Developer with Master's degree in Computer Science</h3>
-<p>I'm interested in Artificial Intelligence 🤖, Machine Learning 🧠 and Web 🌐.</p>
+<h1 align="center">Ciao 👋, I'm Lorenzo 👨🏻‍💻</h1>
+<h4 align="center">I'm a 28 y/o software developer from Italy 🇮🇹</h3>
+<p>I'm passionate since childhood about computers and technology and I'm a programmer for work and for passion.
+I have a master degree in Computer Science obtained at the University of Bologna and I work as a software developer, specialized in Android applications, for Aubay Italia.<br/>
+I am very curious, in fact there are many things that I am passionate about, but among the ones that do it the most there are astronomy and Eastern cultures.
+<br/>
+Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.
+I also have a personal project of my own, it is called <a href="https://www.niceplaces.it/en/">Nice Places</a> and it is an application (Android and PWA) to discover historical and cultural places of interest around you.</p>
 <p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
 
 <p align="center"> 
