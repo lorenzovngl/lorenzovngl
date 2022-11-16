@@ -19,25 +19,20 @@ I also have a personal project of my own, it is called <a href="https://www.nice
 
 <h3 align="center">💼 My repositories</h3>
 <h5 align="left">Personal projects</h5>
-<ul>
-  <li><a href="https://github.com/niceplaces"><strong><i>My big project: <img src="https://github.com/niceplaces/website/blob/main/assets/favicons/favicon-16x16.png"/> Nice Places ❤️</i></strong></a></li>
-  <li><a href="https://github.com/lorenzovngl/plantuml-generator">Automatic generator of UML diagrams using PlantUML</a></li>
-  <li><a href="https://github.com/lorenzovngl/bootstrap-advanced-pagination">Advanced pagination with Bootstrap</a></li>
-  <li><a href="https://github.com/lorenzovngl/lyra">Lyra - Budget Tracking Web App in React</a></li>
-  <li>
-    <a href="https://github.com/lorenzovngl/meta-hacker-cup">My solutions for the Meta Hacker Cup problems</a> 
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/meta-hacker-cup?label=%E2%AD%90">
-  </li>
-  <li><a href="https://github.com/lorenzovngl/kaggle">My solutions for the competitions on Kaggle</a></li>
-  <li><a href="https://github.com/lorenzovngl/shinobi">Shinobi - A tool to learn Japanese writing system</a></li>
-  <li>
-    <a href="https://github.com/lorenzovngl/domina">Domina - Android app to play checkers</a>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lorenzovngl/domina?label=%E2%AD%90">
-  </li>
-  <li>
-    <a href="https://github.com/lorenzovngl/n-grams">Implementation of the "n-gram" concept of computational linguistics</a>
-  </li>
-</ul>
+
+| Description | Main language | Last commit |
+|-|-|-|
+| <img src="https://github.com/niceplaces/website/blob/main/assets/favicons/favicon-16x16.png"/> [**Nice Places** - Website](https://github.com/niceplaces/website) | ![GitHub top language](https://img.shields.io/github/languages/top/niceplaces/website?color=%234F5D95&label=%20&logo=php&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/website?label=%20&style=flat-square)
+| <img src="https://github.com/niceplaces/website/blob/main/assets/favicons/favicon-16x16.png"/> [**Nice Places** - Android app](https://github.com/niceplaces/website) | ![GitHub top language](https://img.shields.io/github/languages/top/niceplaces/android-app?color=%23A97BFF&label=%20&logo=kotlin&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/android-app?label=%20&style=flat-square)
+| [Automatic generator of UML diagrams using PlantUML](https://github.com/lorenzovngl/plantuml-generator) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/plantuml-generator?color=%23A97BFF&label=%20&logo=kotlin&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/plantuml-generator?label=%20&style=flat-square)
+| [Advanced pagination with Bootstrap](https://github.com/lorenzovngl/bootstrap-advanced-pagination) | ![GitHub top language](https://img.shields.io/badge/javascript-100.0%25-white?color=%23f1e05a&label=%20&logo=javascript&logoColor=black&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/bootstrap-advanced-pagination?label=%20&style=flat-square)
+| [Lyra - Budget Tracking Web App in React](https://github.com/lorenzovngl/lyra) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/lyra?color=%23f1e05a&label=%20&logo=javascript&logoColor=black&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/lyra?label=%20&style=flat-square)
+| [My solutions for the Meta Hacker Cup problems](https://github.com/lorenzovngl/meta-hacker-cup) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/meta-hacker-cup?color=%233572A5&label=%20&logo=python&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/meta-hacker-cup?label=%20&style=flat-square)
+| [My solutions for the competitions on Kaggle](https://github.com/lorenzovngl/kaggle) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/kaggle?color=%23DA5B0B&label=%20&logo=jupyter&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/kaggle?label=%20&style=flat-square)
+| [Shinobi - A tool to learn Japanese writing system](https://github.com/lorenzovngl/shinobi) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/shinobi?color=%23f1e05a&label=%20&logo=javascript&logoColor=black&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/shinobi?label=%20&style=flat-square)
+| [Domina - Android app to play checkers](https://github.com/lorenzovngl/domina) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/domina?color=%23b07219&label=%20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAABgAAAAYADwa0LPAAABl0lEQVRIx+WUPWuUURCFnzEJuxt3A4nBzt1CTQoJWGlAAomp/APaBO0VC3+AjWAndmJpKXYSsQ42lqZQtAohiDZpgm6IBMNj4Qgvy7q8u7wBwdvcD2bOmXvO3Av/7VCXysSdGBG8BiweGwFwE/h4XNKsquvqqMUNBL+tvlVn1QX1utqsCvyxuqFOq4+SLKoCv6V+UhtJdLdsblkdLwLPIuIAWAM+VE3wHGjn+h3wsHKT1XvqWXVO3VevVEqQJJdyfqGeynUk8clhwS6oD9Sr6lThvK621Zp6Xm2qZ9SXaqcXZ3wAx+mcl4BldR+oAz+BQ2APeBMRXaCrbgHzwM4wt6ira739rk6pc4X9ZfVJv3cxXoJnHnitzgDfM+cA2FSf5n4sIu4M5UGhuo7a7jlrqBNl8v/ay9kdDeAcsK5+UbfUr8A2cF8dG6XimdTz2p9WLPgxrbb65LTVhX54/TyYTI1vACvqUcYd8bt7Is38lnFd4D0wq36OiL0i2MDfMI3tAE2glpK2gInMbSX5D+BVROwOLdk/P34BJuYonDs8yxQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTEtMTZUMjE6MDE6MDYrMDA6MDD0lPXnAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTExLTE2VDIxOjAxOjA2KzAwOjAwhclNWwAAAABJRU5ErkJggg==&logoColor=black&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/domina?label=%20&style=flat-square)
+| [Implementation of the "n-gram" concept of computational linguistics](https://github.com/lorenzovngl/n-grams) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/n-grams?color=%233572A5&label=%20&logo=python&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/n-grams?label=%20&style=flat-square)
+
 <h5 align="left">University projects</h5>
 <ul>
   <li><a href="https://github.com/lorenzovngl/ml-project">Mushroom Classification</a></li>
