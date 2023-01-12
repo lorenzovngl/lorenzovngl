@@ -67,7 +67,7 @@ I also have a personal project of my own, it is called <a href="https://www.nice
 
 <h3 align="center">📊 My statistics</h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzovngl&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorenzovngl&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&theme=tokyonight&background=0d1117&hide_border=true" alt="lorenzovngl" />
 </div>
 
