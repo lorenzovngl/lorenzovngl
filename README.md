@@ -22,8 +22,8 @@ I also have a personal project of my own, it is called <a href="https://www.nice
 
 | Description | Main language | Last commit | Download |
 |-|-|-|-|
-| [**Nice Places** - Discover the culture around you](https://github.com/niceplaces/android-app) | ![GitHub top language](https://img.shields.io/github/languages/top/niceplaces/android-app?color=%23A97BFF&label=%20&logo=kotlin&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/android-app?label=%20&style=flat-square) | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/niceplaces/android-app?style=flat-square&label=) [![Play Store](https://img.shields.io/badge/-1K%2B-brightgreen?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces) [![GitHub all releases](https://img.shields.io/github/downloads/niceplaces/android-app/total?logo=github&label=&style=flat-square)](https://github.com/niceplaces/android-app/releases) |
 | [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/FoodExpirationDates?color=%23A97BFF&label=%20&logo=kotlin&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/FoodExpirationDates?label=%20&style=flat-square) |  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lorenzovngl/FoodExpirationDates?style=flat-square&label=) [![Play Store](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Florenzovngl%2FFoodExpirationDates%2Fmain%2Fshields%2Fdownloads-google-play.json&label=)](https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates) [![GitHub all releases](https://img.shields.io/github/downloads/lorenzovngl/FoodExpirationDates/total?logo=github&label=&style=flat-square)](https://github.com/lorenzovngl/FoodExpirationDates/releases) |
+| [Nice Places - Discover the culture around you](https://github.com/niceplaces/android-app) | ![GitHub top language](https://img.shields.io/github/languages/top/niceplaces/android-app?color=%23A97BFF&label=%20&logo=kotlin&logoColor=white&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/android-app?label=%20&style=flat-square) | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/niceplaces/android-app?style=flat-square&label=) [![Play Store](https://img.shields.io/badge/-1K%2B-brightgreen?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces) [![GitHub all releases](https://img.shields.io/github/downloads/niceplaces/android-app/total?logo=github&label=&style=flat-square)](https://github.com/niceplaces/android-app/releases) |
 | [Domina - The game of checkers](https://github.com/lorenzovngl/domina) | ![GitHub top language](https://img.shields.io/github/languages/top/lorenzovngl/domina?color=%23b07219&label=%20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAABgAAAAYADwa0LPAAABl0lEQVRIx+WUPWuUURCFnzEJuxt3A4nBzt1CTQoJWGlAAomp/APaBO0VC3+AjWAndmJpKXYSsQ42lqZQtAohiDZpgm6IBMNj4Qgvy7q8u7wBwdvcD2bOmXvO3Av/7VCXysSdGBG8BiweGwFwE/h4XNKsquvqqMUNBL+tvlVn1QX1utqsCvyxuqFOq4+SLKoCv6V+UhtJdLdsblkdLwLPIuIAWAM+VE3wHGjn+h3wsHKT1XvqWXVO3VevVEqQJJdyfqGeynUk8clhwS6oD9Sr6lThvK621Zp6Xm2qZ9SXaqcXZ3wAx+mcl4BldR+oAz+BQ2APeBMRXaCrbgHzwM4wt6ira739rk6pc4X9ZfVJv3cxXoJnHnitzgDfM+cA2FSf5n4sIu4M5UGhuo7a7jlrqBNl8v/ay9kdDeAcsK5+UbfUr8A2cF8dG6XimdTz2p9WLPgxrbb65LTVhX54/TyYTI1vACvqUcYd8bt7Is38lnFd4D0wq36OiL0i2MDfMI3tAE2glpK2gInMbSX5D+BVROwOLdk/P34BJuYonDs8yxQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTEtMTZUMjE6MDE6MDYrMDA6MDD0lPXnAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTExLTE2VDIxOjAxOjA2KzAwOjAwhclNWwAAAABJRU5ErkJggg==&logoColor=black&style=flat-square) | ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzovngl/domina?label=%20&style=flat-square) | [![Play Store](https://img.shields.io/badge/-10%2B-yellow?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.lorenzovngl.domina) |
 
 <h5 align="left">Personal projects</h5>
@@ -61,9 +61,9 @@ I also have a personal project of my own, it is called <a href="https://www.nice
   
 <h3 align="center">🏆 My achievements</h3>
 <ul>
+  <li>09/04/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 100 downloads on Google Play</a></li>
+  <li>16/03/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Launched Food Expiration Dates on Google Play</a></li>
   <li>19/10/2022 - <a href="https://pandas.pydata.org/docs/whatsnew/v1.5.1.html#:~:text=Himanshu%20Wagh%20%2B-,Lorenzo%20Vainigli">Contributed to version 1.5.1 of Pandas</a></li>
-  <li>01/09/2022 - <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/710922656375679">Qualified for Meta Hacker Cup 2022 Round 1</a></li>
-  <li>01/09/2021 - <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/710922656375679">Qualified for Facebook Hacker Cup 2021 Round 1</a></li>
   <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
 </ul>
 
@@ -79,27 +79,6 @@ I also have a personal project of my own, it is called <a href="https://www.nice
 <div align="center">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorenzovngl&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="lorenzovngl" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzovngl&theme=tokyonight&background=0d1117&hide_border=true" alt="lorenzovngl" />
-</div>
-
-<div align="center">
-  <h3>🛠️ Tools & Languages</h3>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/mysql-%233E6E93.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </div>
 
 <br/>
