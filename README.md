@@ -1,19 +1,19 @@
 <h1 align="center">Ciao 👋, I'm Lorenzo 👨🏻‍💻</h1>
-<h4 align="center">I'm a 28 y/o software developer from Italy 🇮🇹</h3>
+<h4 align="center">I'm a 29 y/o Andrioid developer from Italy 🇮🇹</h3>
 <p>I'm passionate since childhood about computers and technology and I'm a programmer for work and for passion.
-I have a master degree in Computer Science obtained at the University of Bologna and I work as a software developer, specialized in Android applications, for Aubay Italia.<br/>
-I am very curious, in fact there are many things that I am passionate about, but among the ones that do it the most there are astronomy and Eastern cultures.
-<br/>
-Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.
-I also have a personal project of my own, it is called <a href="https://www.niceplaces.it/en/">Nice Places</a> and it is an application (Android and PWA) to discover historical and cultural places of interest around you.</p>
+I have a master degree in Computer Science obtained at the University of Bologna and I work as a software developer, specialized in Android applications.</p>
+<p>I am very curious, in fact there are many things that I am passionate about, but among the ones that do it the most there are astronomy and Eastern cultures.
+<p>
+<p>
+Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.</p>
 <p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
 
 <p align="center"> 
   <a href="https://twitter.com/lorenzovngl_dev" target="blank">
-    <img src="https://shields.io/badge/follow-me-blue?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" />
+    <img src="https://shields.io/badge/follow-me-blue?logo=x&style=for-the-badge" alt="lorenzovngl_dev" />
   </a>
   <a href="https://twitter.com/messages/compose?recipient_id=1458499897926328327" target="blank">
-    <img src="https://shields.io/badge/message-me-blue?logo=twitter&style=for-the-badge" alt="lorenzovngl_dev" />
+    <img src="https://shields.io/badge/contact-me-blue?logo=x&style=for-the-badge" alt="lorenzovngl_dev" />
   </a>
 </p>
 
@@ -61,9 +61,9 @@ I also have a personal project of my own, it is called <a href="https://www.nice
   
 <h3 align="center">🏆 My achievements</h3>
 <ul>
+  <li>14/09/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 500 downloads on Google Play</a></li>
+  <li>29/08/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.grocerylist">Launched Grocery List on Google Play</a></li>
   <li>09/04/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 100 downloads on Google Play</a></li>
-  <li>16/03/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Launched Food Expiration Dates on Google Play</a></li>
-  <li>19/10/2022 - <a href="https://pandas.pydata.org/docs/whatsnew/v1.5.1.html#:~:text=Himanshu%20Wagh%20%2B-,Lorenzo%20Vainigli">Contributed to version 1.5.1 of Pandas</a></li>
   <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
 </ul>
 

@@ -1,6 +1,8 @@
 # 🏆 My achievements
 
 ## 2023
+- 14/09 - 🚀 [Food Expiration Dates reaches 500 downloads on Google Play](https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates)
+- 29/08 - 🎉 [Launched Grocery List on Google Play](https://play.google.com/store/apps/details?id=com.lorenzovainigli.grocerylist)
 - 09/04 - 🚀 [Food Expiration Dates reaches 100 downloads on Google Play](https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates)
 - 16/03 - 🎉 [Launched Food Expiration Dates on Google Play](https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates)
 
@@ -20,7 +22,7 @@
 
 ## 2019
 - 08/10 - 🎉 [Launched prolocosovicille.it, a website developed entirely by me](https://www.prolocosovicille.it/)
-- 16/07 - 🎉 [Launched a my personal website](https://www.lorenzovainigli.com/)
+- 16/07 - 🎉 [Launched my personal website](https://www.lorenzovainigli.com/)
 
 ## 2018
 - 06/03 - 🎉 [Launched Nice Places' Android app](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
