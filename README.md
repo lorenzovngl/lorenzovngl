@@ -61,9 +61,9 @@ Recently I have discovered the beautiful world of open source software: I use Gi
   
 <h3 align="center">🏆 My achievements</h3>
 <ul>
+  <li>24/11/2023 - <a href="https://github.com/gayanvoice/top-github-users/blob/6fc00773f8542270b625692cf5ad31d8cfe9ce90/markdown/public_contributions/italy.md#:~:text=Lorenzo%20Vainigli">Got ranked among the top contributors on GitHub for Italy</a></li>
+  <li>18/10/2023 - <a href="https://twitter.com/i/spaces/1RDGllVOzgRGL">Guest on an X Space</a></li>
   <li>14/09/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 500 downloads on Google Play</a></li>
-  <li>29/08/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.grocerylist">Launched Grocery List on Google Play</a></li>
-  <li>09/04/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 100 downloads on Google Play</a></li>
   <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
 </ul>
 
