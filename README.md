@@ -8,13 +8,11 @@ I have a master degree in Computer Science obtained at the University of Bologna
 Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.</p>
 <p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
 
-<p align="center"> 
-  <a href="https://twitter.com/lorenzovngl_dev" target="blank">
-    <img src="https://shields.io/badge/follow-me-blue?logo=x&style=for-the-badge" alt="lorenzovngl_dev" />
-  </a>
-  <a href="https://twitter.com/messages/compose?recipient_id=1458499897926328327" target="blank">
-    <img src="https://shields.io/badge/contact-me-blue?logo=x&style=for-the-badge" alt="lorenzovngl_dev" />
-  </a>
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/lorenzovngl_dev" target="blank"><img align="center" src="https://img.shields.io/badge/twitter/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="lorenzovngl_dev"/></a>
+<a href="https://linkedin.com/in/lorenzovainigli" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="lorenzovainigli"/></a>
+<a href="https://www.threads.net/@lorenzovngl" target="blank"><img align="center" src="https://img.shields.io/badge/threads-%23FFFFFF.svg?&style=for-the-badge&logo=threads&logoColor=black" alt="lorenzovainigli"/></a>
 </p>
 
 <h3 align="center">💼 My repositories</h3>
@@ -66,14 +64,6 @@ Recently I have discovered the beautiful world of open source software: I use Gi
   <li>14/09/2023 - <a href="https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates">Food Expiration Dates reaches 500 downloads on Google Play</a></li>
   <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
 </ul>
-
-<!--<h3 align="center">🤝 My contributions</h3>-->
-
-<h3 align="center">🔗 Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/lorenzovngl_dev" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" alt="lorenzovngl_dev"/></a>
-<a href="https://linkedin.com/in/lorenzovainigli" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" alt="lorenzovainigli"/></a>
-</p>
 
 <h3 align="center">📊 My statistics</h3>
 <div align="center">
