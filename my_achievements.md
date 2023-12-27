@@ -1,6 +1,7 @@
 # 🏆 My achievements
 
 ## 2023
+- 27/12 - 🗣️ [Reached 1.000 followers on Twitter/X](https://twitter.com/lorenzovngl_dev/status/1739955670357565738)
 - 24/11 - 🏅 [Got ranked among the top contributors on GitHub for Italy](https://github.com/gayanvoice/top-github-users/blob/6fc00773f8542270b625692cf5ad31d8cfe9ce90/markdown/public_contributions/italy.md#:~:text=Lorenzo%20Vainigli)
 - 18/10 - 🎙️ [Guest on an X Space](https://twitter.com/i/spaces/1RDGllVOzgRGL)
 - 14/09 - 🚀 [Food Expiration Dates reaches 500 downloads on Google Play](https://play.google.com/store/apps/details?id=com.lorenzovainigli.foodexpirationdates)
