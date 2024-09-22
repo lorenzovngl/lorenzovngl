@@ -1,5 +1,12 @@
 <h1 align="center">Ciao 👋, I'm Lorenzo 👨🏻‍💻</h1>
-<h4 align="center">I'm a 29 y/o Andrioid developer from Italy 🇮🇹</h3>
+<h4 align="center">I'm a 30 y/o Andrioid developer from Italy 🇮🇹</h3>
+
+<div align="center">
+  
+  [***🎙️ Listen my story as a podcast ✨***](https://www.youtube.com/watch?v=T1f8V4JG1FE)
+
+</div>
+
 <p>I'm passionate since childhood about computers and technology and I'm a programmer for work and for passion.
 I have a master degree in Computer Science obtained at the University of Bologna and I work as a software developer, specialized in Android applications.</p>
 <p>I am very curious, in fact there are many things that I am passionate about, but among the ones that do it the most there are astronomy and Eastern cultures.
