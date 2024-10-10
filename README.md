@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  [***🎙️ Listen my story as a podcast ✨***](https://www.youtube.com/watch?v=T1f8V4JG1FE)
+  [***🎙️ Listen to my story as a podcast ✨***](https://www.youtube.com/watch?v=T1f8V4JG1FE)
 
 </div>
 
