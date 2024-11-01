@@ -65,12 +65,11 @@ Recently I have discovered the beautiful world of open source software: I use Gi
   
   
 <h3 align="center">🏆 My achievements</h3>
-<ul>
-  <li>27/12/2023 - <a href="https://twitter.com/lorenzovngl_dev/status/1739955670357565738">Reached 1.000 followers on Twitter/X</a></li>
-  <li>24/11/2023 - <a href="https://github.com/gayanvoice/top-github-users/blob/6fc00773f8542270b625692cf5ad31d8cfe9ce90/markdown/public_contributions/italy.md#:~:text=Lorenzo%20Vainigli">Got ranked among the top contributors on GitHub for Italy</a></li>
-  <li>18/10/2023 - <a href="https://twitter.com/i/spaces/1RDGllVOzgRGL">Guest on an X Space</a></li>
-  <li><a href="https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md">[...] (full list)</a></li>
-</ul>
+
+- 01/11/2024 - 🏁 [Reached 1.000 contributions on GitHub](https://github.com/lorenzovngl/)
+- 25/10/2024 - 🗣️ [Reached 100 followers on GitHub](https://github.com/lorenzovngl/)
+- 10/10/2024 - 🚀 [Food Expiration Dates reaches 2.000 downloads on Google Play](https://www.linkedin.com/posts/lorenzovainigli_food-expiration-dates-has-reached-2000-downloads-activity-7250239218151542785-Y44t)
+- [[...] (full list)](https://github.com/lorenzovngl/lorenzovngl/blob/master/my_achievements.md)
 
 <h3 align="center">📊 My statistics</h3>
 <div align="center">
