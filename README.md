@@ -13,7 +13,7 @@ I have a master degree in Computer Science obtained at the University of Bologna
 <p>
 <p>
 Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.</p>
-<p>Please visit my <a href="https://www.lorenzovainigli.com/en/">personal website</a> to know more about me.</p>
+<p>Please visit my <a href="https://www.lorenzovainigli.com/">personal website</a> to know more about me.</p>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
