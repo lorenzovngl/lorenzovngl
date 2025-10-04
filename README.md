@@ -1,19 +1,13 @@
 <h1 align="center">Ciao 👋, I'm Lorenzo 👨🏻‍💻</h1>
-<h4 align="center">I'm a 30 y/o Andrioid developer from Italy 🇮🇹</h3>
+<h3 align="center">I'm an Android Engineer</h3>
 
-<div align="center">
-  
-  [***🎙️ Listen to my story as a podcast ✨***](https://www.youtube.com/watch?v=T1f8V4JG1FE)
-
-</div>
-
-<p>I'm passionate since childhood about computers and technology and I'm a programmer for work and for passion.
-I have a master degree in Computer Science obtained at the University of Bologna and I work as a software developer, specialized in Android applications.</p>
-<p>I am very curious, in fact there are many things that I am passionate about, but among the ones that do it the most there are astronomy and Eastern cultures.
-<p>
-<p>
-Recently I have discovered the beautiful world of open source software: I use GitHub a lot looking for interesting projects and developers to collaborate with.</p>
+<p>I'm an Italian Android engineer and author of the book <a href="https://www.lorenzovainigli.com/ultimate-android-design-patterns/"><i>Ultimate Android Design Patterns</i></a>. I created <a href="https://github.com/lorenzovngl/FoodExpirationDates">Food Expiration Dates</a>, an open-source app helping users reduce food waste, which has reached a <a href="https://www.lorenzovainigli.com/posts/fed-130-countries/">global audience</a>. Beyond that, I have a deep interest in Eastern philosophies, but Japanese culture, with its arts and values, holds a particularly special place in my life.</p>
 <p>Please visit my <a href="https://www.lorenzovainigli.com/">personal website</a> to know more about me.</p>
+
+<h3>My Book - <i>Ultimate Android Design Patterns</i></h3>
+<div align="center"><img style="height: 200px; float: right" src="https://www.lorenzovainigli.com/images/ultimate-android-design-patterns.jpg"/></div>
+<p>Design patterns are the backbone of well-structured software, enabling developers to write clean, reusable, and testable code. By mastering these patterns, you’ll enhance code efficiency, reduce technical debt, and future-proof your apps against rapid industry changes. Ultimate Android Design Patterns is your essential guide to building scalable, maintainable, and high-performance Android applications.</p>
+<p><a href="https://www.lorenzovainigli.com/ultimate-android-design-patterns/">Discover the Book</a></p>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
